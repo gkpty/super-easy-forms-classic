@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/gkpty/serverless-form-generator#readme",
   "dependencies": {
-    "aws-sdk": "^2.452.0",
+    "aws-sdk": "^2.814.0",
     "dotenv": "^8.0.0",
     "file-saver": "^2.0.1",
     "jszip": "^3.2.1",
